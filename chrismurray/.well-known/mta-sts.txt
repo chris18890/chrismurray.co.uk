@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+mx: chrismurray-co-uk.mail.protection.outlook.com
+mx: krismurray-co-uk.mail.protection.outlook.com
+max_age: 1209600
